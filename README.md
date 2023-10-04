@@ -12,4 +12,4 @@
 ### Algorithm
 1. Write the header of the CSV file.
 2. Repeat the following until 11 rows are built
-	a. Build each row of the output by assembling the columns and calling the appropriate SQL functions to get vaccine and population counts.
+	- Build each row of the output by assembling the columns and calling the appropriate SQL functions to get vaccine and population counts but only for the rows requested.
