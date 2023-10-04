@@ -1,5 +1,5 @@
 
-
+/* Author: Sandeep Chintabathina */
 -- Function to get the population count given a birth date range
 
 CREATE OR REPLACE FUNCTION prd_dmowner.get_pop_count(
